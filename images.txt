@@ -7,3 +7,4 @@ xhofe/alist:latest
 jojo141185/mopidy
 sweisgerber/mopidy
 hza800755/istoreos-arm64:20250604
+jojo141185/mopidy:latest@sha256:6c33f48a95ae720d20f39a13642759f6b1d236c4255efd16c43751759c251a7c
