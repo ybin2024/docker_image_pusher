@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 jojo141185/mopidy
 sweisgerber/mopidy
-hza800755/istoreos-arm64
+hza800755/istoreos-arm64:20250604
